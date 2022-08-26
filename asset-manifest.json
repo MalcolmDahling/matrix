@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e293e9a2.css",
+    "main.js": "/static/js/main.7ff807ff.js",
+    "static/js/787.4e614f49.chunk.js": "/static/js/787.4e614f49.chunk.js",
+    "static/media/matrix_code_nfi.ttf": "/static/media/matrix_code_nfi.77b36b5eb15b0d99bd9a.ttf",
+    "index.html": "/index.html",
+    "main.e293e9a2.css.map": "/static/css/main.e293e9a2.css.map",
+    "main.7ff807ff.js.map": "/static/js/main.7ff807ff.js.map",
+    "787.4e614f49.chunk.js.map": "/static/js/787.4e614f49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e293e9a2.css",
+    "static/js/main.7ff807ff.js"
+  ]
+}
